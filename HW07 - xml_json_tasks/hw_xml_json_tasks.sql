@@ -9,7 +9,7 @@
 https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0
 Нужен WideWorldImporters-Full.bak
 
-Описание WideWorldImporters от Microsoft:
+ Описание WideWorldImporters от Microsoft:
 * https://docs.microsoft.com/ru-ru/sql/samples/wide-world-importers-what-is
 * https://docs.microsoft.com/ru-ru/sql/samples/wide-world-importers-oltp-database-catalog
 */
